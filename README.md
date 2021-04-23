@@ -1,7 +1,10 @@
 # Listas
-Exercícios resolvidos 
+Exercícios resolvidos para algumas disciplinas durante a minha graduação em ciências da computação.
 
-Assuntos
+## Liguagens utilizadas
+- C 
+
+## Assuntos
  - I.P I (Prof. Marcio)
  - I.P II (Prof. Marcio & Ana)
  - E.D I (Prof. Ana)
